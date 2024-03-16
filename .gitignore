@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+.idea
+.idea/*
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+book.iml
